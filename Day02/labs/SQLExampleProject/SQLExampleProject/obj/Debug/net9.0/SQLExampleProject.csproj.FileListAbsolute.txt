@@ -1,0 +1,4 @@
+C:\Abhinav\SQLExampleProject\SQLExampleProject\obj\Debug\net9.0\SQLExampleProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Abhinav\SQLExampleProject\SQLExampleProject\obj\Debug\net9.0\SQLExampleProject.AssemblyInfoInputs.cache
+C:\Abhinav\SQLExampleProject\SQLExampleProject\obj\Debug\net9.0\SQLExampleProject.AssemblyInfo.cs
+C:\Abhinav\SQLExampleProject\SQLExampleProject\obj\Debug\net9.0\SQLExampleProject.csproj.CoreCompileInputs.cache
